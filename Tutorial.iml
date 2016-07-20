@@ -11,5 +11,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="TEST" name="Maven: junit:junit:4.4" level="project" />
+    <orderEntry type="library" name="Maven: org.powermock:powermock-reflect:1.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.javassist:javassist:3.13.0-GA" level="project" />
   </component>
 </module>
