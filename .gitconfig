@@ -1,0 +1,6 @@
+[user]
+	name = Dan
+	email = danpanf28@gmail.com
+[core]
+	autocrlf = true
+	safecrlf = true
